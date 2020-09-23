@@ -1,7 +1,7 @@
 # Machine-Learning---Unsupervised
 Francis Odo
 
-Unsupervised Learning
+Unsupervised Learning - Cryptocurrencies
 
 Background 
 
