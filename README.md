@@ -39,4 +39,4 @@ Data is then scaled using the StandardScaler function. The purpose of this is to
 Since our data contains a set of clusters, we apply an algorithm that determines the best K values. The model is then trained with the k-means algorithm, which iterates and determines the best centroid for each and every K cluster values.
 
 Data visualization is done with the application of 2D and 3D hvplot scatter plot in plotly library for plotting the outcome or result of the analyzed data. The K-means algorithm also use the hvplot.line to determine the best K value from the Elbow Curve.								 
-	
+Note: For the purpose of improved visualization I scaled the data and re-plot both 2D and 3D plots. However, the data appeared to be significantly reduced as shown on the plots. Further investigation is required to understand exactly why this happened.	
